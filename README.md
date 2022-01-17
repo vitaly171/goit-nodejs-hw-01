@@ -5,14 +5,13 @@
  node index.js --action get --id 5
 
 
-# Добавялем контакт
+# [Добавялем контакт:](https://monosnap.com/file/Jhay8xhVninswiGHlqpf6wBBxvp2zS)
 
  node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
 
-https://monosnap.com/file/Jhay8xhVninswiGHlqpf6wBBxvp2zS
 
-# Удаляем контакт
+# [Удаляем контакт:](https://monosnap.com/file/HlfhWO7TlspvTe9ce3XQNgE0mD2jCX)
 
  node index.js --action remove --id=3
 
-https://monosnap.com/file/HlfhWO7TlspvTe9ce3XQNgE0mD2jCX
+
